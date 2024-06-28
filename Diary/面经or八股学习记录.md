@@ -22,4 +22,5 @@ bsdf和brdf的区别？各自的应用场景？
 总结：一半的面试官会提到原神，建议去好好看看原神的图形算法实现（好像某乎上有大佬介绍）。我自己项目中大量使用compute shader但从未被问到（所以引擎岗不会太侧重编写shader的细节）。面试官还都特别喜欢问场景题，只能说纯背八股做项目是不行的，还是要多看别人文章，自己多思考总结举一反三。
 还有，一定要学一下renderdoc！这也是基础！  
 
-csm突变具体处理  [参考文档]（https://learn.microsoft.com/zh-cn/windows/win32/dxtecharts/cascaded-shadow-maps#blend-between-cascades）  
+csm突变具体处理    [参考文档](https://learn.microsoft.com/zh-cn/windows/win32/dxtecharts/cascaded-shadow-maps#blend-between-cascades)
+
